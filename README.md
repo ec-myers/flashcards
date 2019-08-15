@@ -8,6 +8,9 @@ FlashCards is the first project of Module 2 at the Turing School of Software & D
 - JavaScript
 - Mocha and Chai testing suite
 
+![Gameplay Gif](https://media.giphy.com/media/hpA2jdCkGFxRzTRbwY/giphy.gif
+)
+
 ### Setup
 On the top right corner of this page, click the Fork button.
 
@@ -19,13 +22,13 @@ Once you have cloned the repo, change into the directory and install the library
 npm install
 ```
 
-To verify that it is setup correctly, run:
+To verify that it is setup correctly, in your terminal run:
 
 ```
 npm test
 ```
 
-in your terminal. You should have 5 pending tests in your `Card` test file that show up.
+You should have 5 pending tests in your `Card` test file that show up.
 
 ### Play the Game
 
